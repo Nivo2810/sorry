@@ -86,9 +86,9 @@ body {
 }
 
 .footer--love {
-  position: absolute;
+  
   right: 1rem;
-  bottom: 2rem;
+  bottom: 3rem;
   font-size: 15px;
   font-family: 'Lato', sans-serif;
   z-index: 9999;
